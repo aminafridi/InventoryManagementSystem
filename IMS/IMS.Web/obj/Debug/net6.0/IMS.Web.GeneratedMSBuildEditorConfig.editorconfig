@@ -1,0 +1,140 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IMS.Web
+build_property.RootNamespace = IMS.Web
+build_property.ProjectDir = C:\Users\Amin\Source\Repos\InventoryManagementSystem\IMS\IMS.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Amin\Source\Repos\InventoryManagementSystem\IMS\IMS.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Controls/ErrorMessageComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcRXJyb3JNZXNzYWdlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Controls/InventoryItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcSW52ZW50b3J5SXRlbUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Controls/ProductInventoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdEludmVudG9yaWVzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Controls/ProductItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdEl0ZW1Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Controls/ViewInventoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcVmlld0ludmVudG9yaWVzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Controls/ViewProductsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcVmlld1Byb2R1Y3RzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Activities/ProduceProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdGllc1xQcm9kdWNlUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Activities/PurchaseInventory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdGllc1xQdXJjaGFzZUludmVudG9yeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Activities/SellProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdGllc1xTZWxsUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Inventories/AddInventory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3JpZXNcQWRkSW52ZW50b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Inventories/EditInventory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3JpZXNcRWRpdEludmVudG9yeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Inventories/InventoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3JpZXNcSW52ZW50b3J5TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Products/AddProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQWRkUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Products/EditProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRWRpdFByb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Products/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Reports/InventoryTransactions.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1xJbnZlbnRvcnlUcmFuc2FjdGlvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Reports/ProductTransactions.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1xQcm9kdWN0VHJhbnNhY3Rpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-333bmlj9zj
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0kfy9yjstd
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Areas/Identity/Pages/Account/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Amin/Source/Repos/InventoryManagementSystem/IMS/IMS.Web/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
